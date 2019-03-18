@@ -1,0 +1,2 @@
+# ictic
+Valuation index
